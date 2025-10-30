@@ -1,0 +1,2 @@
+# Daily Notes
+Format all source code files with Prettier
